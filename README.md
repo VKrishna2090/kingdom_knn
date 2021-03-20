@@ -6,11 +6,11 @@ E-commerce System provides an easy way to sell products to a large customer base
 
 This application was created as a Mini Project in Java for Semester-3 IT of MU.
 
-## VERSION or DATE:
+## DATE:
 
 Finalized on 16th December, 2020.
 
-## HOW TO START THIS PROJECT:
+## PROJECT FLOW:
 
 #### Login / Register: 
 The customer can login to the e-Commerce shopping system by entering his user name (email) and password. The system will verify that the login name matches the login password. If they do not match, an error message will be indicated to the customer. If the customer is a new user, he can register with the system. 
@@ -40,12 +40,12 @@ When the customer requests for checkout, delivery information and payable amount
 After placing the order, product is available to be shipped and approximate ship date is displayed, along with order summary. All placed order can be viewed under My Orders.
 
 
-## AUTHORS:
+## DEVELOPERS:
 
 Ninad Rao Shivanand <br>
 Thakkar Nidhi Haresh <br>
 V Krishnasubramaniam 
 
-## USER INSTRUCTIONS:
+## TECHNOLOGIES USED:
 
 This project was developed on JDK 11.0.10 and Microsoft JDBC Driver 8.4 for SQL Server.
