@@ -39,6 +39,32 @@ When the customer requests for checkout, delivery information and payable amount
 #### Place Order
 After placing the order, product is available to be shipped and approximate ship date is displayed, along with order summary. All placed order can be viewed under My Orders.
 
+## SCREENSHOTS
+
+Login Page
+![Login Page](/Images/1.jpg)
+
+Home Page
+![Home Page](/Images/2.jpg)
+
+Category Page
+![Category Page](/Images/3.jpg)
+
+Account Details Page
+![Account Page](/Images/4.jpg)
+
+Product Details Page
+![Product Page](/Images/5.jpg)
+
+Cart Page
+![Cart Page](/Images/6.jpg)
+
+Checkout Page
+![Checkout Page](/Images/7.jpg)
+
+My Orders Page
+![My Orders Page](/Images/8.jpg)
+
 
 ## DEVELOPERS:
 
