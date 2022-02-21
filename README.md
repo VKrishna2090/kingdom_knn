@@ -41,28 +41,28 @@ After placing the order, product is available to be shipped and approximate ship
 
 ## SCREENSHOTS
 
-Login Page
+Login Page<br>
 ![Login Page](/Images/1.jpg)
 
-Home Page
+Home Page<br>
 ![Home Page](/Images/2.jpg)
 
-Category Page
+Category Page<br>
 ![Category Page](/Images/3.jpg)
 
-Account Details Page
+Account Details Page<br>
 ![Account Page](/Images/4.jpg)
 
-Product Details Page
+Product Details Page<br>
 ![Product Page](/Images/5.jpg)
 
-Cart Page
+Cart Page<br><br>
 ![Cart Page](/Images/6.jpg)
 
-Checkout Page
+Checkout Page<br>
 ![Checkout Page](/Images/7.jpg)
 
-My Orders Page
+My Orders Page<br>
 ![My Orders Page](/Images/8.jpg)
 
 
